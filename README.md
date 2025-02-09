@@ -1,2 +1,17 @@
-# Ship-Destoyer-Game
-This is a simple ship destroyer game made using c++. In this game you have to specify coordinates of ships in order to destroy them. 4 ships spawn randomly in a 4x4 grid. Destroy All 4 in order to win.
+# 🚢 Ship Destroyer (Battleship-style Game)
+
+## What is this?
+A simple C++ game where you hunt and destroy hidden ships by entering row and column coordinates.  
+
+## Features  
+✅ Randomly placed ships  
+✅ Unlimited tries to win  
+✅ Simple but addictive gameplay  
+
+## How to Play  
+1. Run the program  
+2. Enter row and column numbers (0-3)  
+3. Keep guessing until you hit all 4 ships  
+4. 🎉 Victory!  
+
+💣 Happy ship-hunting!  
